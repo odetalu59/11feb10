@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://graphiti.app/superjp.html/sitemap.xml
+Sitemap: https://graphiti.app/gilajp.html/sitemap.xml
+Sitemap: https://graphiti.app/gojekpot.html/sitemap.xml
+Sitemap: https://graphiti.app/winstrike69.html/sitemap.xml
+Sitemap: https://graphiti.app/jagoan86.html/sitemap.xml
+Sitemap: https://graphiti.app/slotzeus.html/sitemap.xml
+Sitemap: https://graphiti.app/kaptenjackpot.html/sitemap.xml
+Sitemap: https://graphiti.app/boosterjp.html/sitemap.xml
+Sitemap: https://graphiti.app/kerajaanslot.html/sitemap.xml
+Sitemap: https://graphiti.app/pakong86.html/sitemap.xml
+Sitemap: https://graphiti.app/viral88.html/sitemap.xml
+Sitemap: https://graphiti.app/clan4d.html/sitemap.xml
+Sitemap: https://graphiti.app/dinamit4d.html/sitemap.xml
+Sitemap: https://graphiti.app/elang212.html/sitemap.xml
+Sitemap: https://graphiti.app/gori77.html/sitemap.xml
+Sitemap: https://graphiti.app/viral4d.html/sitemap.xml
+Sitemap: https://graphiti.app/playground88.html/sitemap.xml
